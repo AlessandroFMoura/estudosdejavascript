@@ -1,0 +1,17 @@
+API de adoção de Pets
+
+Como utilizar
+
+Banco utilizado foi o mongoDB
+
+Dependências
+
+mongoose;
+bcrypt;
+cookie-parser;
+cors;
+express;
+jsonwebtoken;
+multer;
+nodemon;
+
